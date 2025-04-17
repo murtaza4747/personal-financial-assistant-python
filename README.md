@@ -1,6 +1,3 @@
-
-
-```markdown
 # 💰 Personal Financial Assistant – Python App
 
 A desktop GUI application for tracking personal expenses and visualizing spending patterns, built using Tkinter and Matplotlib.
@@ -32,24 +29,18 @@ To create a simple, interactive expense tracker that allows users to add, view, 
 ## ▶️ How to Run
 ```bash
 python financial_assistant.py
-```
-*(Make sure you have Tkinter and Matplotlib installed)*
+(Make sure you have Tkinter and Matplotlib installed)
 
----
+📁 Files Included
+financial_assistant.py – Main script for the application
 
-## 📁 Files Included
-- `financial_assistant.py` – Main script for the application
-- `README.md` – Project documentation
-- *(Optional)* `transactions.csv` – Generated at runtime after saving data
-- `Financial_Assistant_Report.pdf` – Documentation (included separately)
+README.md – Project documentation
 
----
+(Optional) transactions.csv – Generated at runtime after saving data
 
-## 👤 Author
-**Murtaza Gohari**  
-Business Analytics | Python | Creative Problem Solver  
-[LinkedIn](https://www.linkedin.com/in/murtaza-gohari4747)
-```
+Financial_Assistant_Report.pdf – Documentation (included separately)
 
----
-
+👤 Author
+Murtaza Gohari
+Business Analytics | Python | Creative Problem Solver
+LinkedIn
